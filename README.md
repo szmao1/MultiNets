@@ -8,7 +8,7 @@
 This repo is the implementation and related sources of MultiNets, which investigates multivariate carbon prices by a novel graph representation of visibility network, and develops multivariate forecasting frameworks. 
 
 <div style="text-align: center;">
-<img src=".\img\1mutiplex" style="height: 200px;"/>
+<img src=".\img\1mutiplex.png" style="height: 200px;"/>
 <p style="text-align: center;"><b>Fig. 1</b> The construction of multiplex visibility graph. Each variable representing the impact factor associated with carbon data is transformed into an individual graph. </p>
 </div>
 
