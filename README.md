@@ -18,6 +18,8 @@ This repo is the implementation and related sources of MultiNets, which investig
 <b>Fig. 1</b> The construction of multiplex visibility graph. Each variable representing the impact factor associated with carbon data is transformed into an individual graph.
 </p>
 
+![alt text](https://github.com/szmao1/MultiNets/blob/main/img/10plotfactor.png)
+
 ## Main Features
 ### External factors
 Carbon price tends to be affected by not only intrinsic market mechanisms but also a myriad of extrinsic complex ingredients like energy influences and economic indicators as presented in Fig. 2. To investigate the relationships between carbon price and extraneous variables precisely, we implement Pearson correlation test and the coefficients are shown in Fig. 3. As can be seen, all factors are positively associated with carbon data, at least having an over 0.6 correlation and most over 0.8.
