@@ -119,7 +119,7 @@ between multiple variables.
 * NetworkX
 
 ## Contact
-If you have any questions or concerns, please feel free to contact Shengzhong through the email: shengzhong.mao@manchester.ac.uk or submit an issue.
+If you have any questions or concerns, please feel free to contact through the email: xxx (will be added after the double anonymized review process) or submit an issue.
 
 ## Acknowledgement
-The authors would like to thank the President’s Doctoral Scholar Award at the University of Manchester to support this work.
+The authors would like to thank the xxx (will be added after the double anonymized review process) to support this work.
