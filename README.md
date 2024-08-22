@@ -15,7 +15,7 @@ This repo is the implementation and related sources of MultiNets, which investig
 <p align="center">
 <img src=".\pic\1multiplex.png" height = "250" alt="" align=center />
 <br><br>
-<b>Figure 1.</b> The construction of multiplex visibility graph. Each variable representing the impact factor associated with carbon data is transformed into an individual graph.
+<b>Fig. 1</b> The construction of multiplex visibility graph. Each variable representing the impact factor associated with carbon data is transformed into an individual graph.
 </p>
 
 ## Main Features
