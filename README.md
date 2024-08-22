@@ -85,7 +85,7 @@ between multiple variables.
 
   <div align="center">
   <img src="https://github.com/szmao1/MultiNets/blob/main/img/7multiresults.png" height="300"/>
-  <p><b>Fig. 8</b> The forecasting results of three categories of baselines as well as proposed model named MultiNets and the variants EMD-MultiNets and MEMD-MultiNets by integrating EMD and MEMD into MultiNets. The best predictive results are highlighted in bold.</p>
+  <p><b>Fig. 8</b> The forecasting results of three categories of baselines as well as proposed model named MultiNets and the variants EMD-MultiNets and MEMD-MultiNets by integrating EMD and MEMD into MultiNets.</p>
 </div>
   
 ### Univariate Forecasting
@@ -100,11 +100,11 @@ between multiple variables.
   <tr>
     <td align="center">
       <img src="https://github.com/szmao1/MultiNets/blob/main/img/8uniresults.png" width="300"/>
-      <p><b>Fig. 9</b> Univariate forecasting of hybrid models and MultiNets.</p>
+      <p><b>Fig. 9</b> Univariate forecasting results.</p>
     </td>
     <td align="center">
       <img src="https://github.com/szmao1/MultiNets/blob/main/img/9ablation.png" width="300"/>
-      <p><b>Fig. 10</b> The experimental results of ablation study.</p>
+      <p><b>Fig. 10</b> Experiments for ablation study.</p>
     </td>
   </tr>
 </table>
