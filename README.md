@@ -117,9 +117,3 @@ between multiple variables.
 * matplotlib
 * statsmodels==0.13.2
 * NetworkX
-
-## Contact
-If you have any questions or concerns, please feel free to contact through the email: xxx (will be added after the double anonymized review process) or submit an issue.
-
-## Acknowledgement
-The authors would like to thank the xxx (will be added after the double anonymized review process) to support this work.
