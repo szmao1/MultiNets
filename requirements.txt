@@ -1,0 +1,7 @@
+numpy == 1.19.1
+torch == 1.8.0
+pandas
+scikit_learn
+matplotlib
+statsmodels==0.13.2
+NetworkX
