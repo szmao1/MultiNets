@@ -118,5 +118,7 @@ between multiple variables.
 * statsmodels==0.13.2
 * NetworkX
 
+<!-- The acknowledgement has been omitted for blind review and will be added in the final version.
 ## Acknowledgement
 The authors would like to thank the President’s Doctoral Scholar Fund at the University of Manchester to support this work.
+-->
